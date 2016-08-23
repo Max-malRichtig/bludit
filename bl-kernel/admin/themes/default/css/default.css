@@ -112,10 +112,13 @@ li.bludit-logo {
 		width: 100% !important;
 	}
 	/* Hidden the sidebar */
+	/* WORKAROUND: disabled, until there is a separate sidebar-menu for this media-size */
+	/*
 	.uk-width-large-2-10 {
 		width: 0% !important;
 		display: none !important;
 	}
+	*/
 }
 
 @media (min-width: 960px) {
